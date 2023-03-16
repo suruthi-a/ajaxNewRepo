@@ -1,4 +1,3 @@
-
 fetch("products.json")
 .then(function(response){
 	return response.json();
